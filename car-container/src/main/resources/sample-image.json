@@ -1,0 +1,8 @@
+{
+  "imageName": "data-container",
+
+  "name": "Data OPACA Car Agent Container",
+  "version": "0.1.9",
+  "description": "A car container for retrieving new data based on events.",
+  "provider": "DAI-Lab"
+}
